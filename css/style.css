@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 1000px;;
+    background: #A6FF83;
+    background-image: url(../img/nature_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /*background-attachment: fixed;
+    background-position: 50% center;
+    border-width: 10px;
+    border-style:solid;
+    border-color: blue;*/
+    padding: 30px;
+
+    border: 10px solid blue;
+
+    /*outline: 20px solid black;*/
+    /*border-top-left-radius: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 40px;*/
+
+    border-radius: 30px 30px 25px 20px;
+}
+
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: red
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: red
+}
